@@ -1,5 +1,5 @@
 ## Project Overview
-Battle Forge,a website created for a Laptop Selling Shop. In here our team has added all the basic features that are normally availible an e-commerce website.
+Battle Forge, a website created for a Laptop Selling Shop. In here our team has added all the basic features that are normally availible an e-commerce website.
 
 ## Technologies Used
 HTML/CSS/Javascript/PHP
